@@ -34,8 +34,6 @@ The simulation models how students queue to get snacks or coffee, using the tech
 
 ## How to Open the Project
 
-## How to Open the Project
-
 The project has been created using **draw.io (diagrams.net)**.
 
 You can view and edit it directly using the following link:
