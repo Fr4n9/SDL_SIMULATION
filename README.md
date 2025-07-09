@@ -38,7 +38,7 @@ The project has been created using **draw.io (diagrams.net)**.
 
 You can view and edit a copy online:
 
-👉 For the main diagram and extended documentation, please visit our [Resources and Links page](RESOURCES.md).
+👉 For the main diagram and extended documentation, please visit [DOCUMENTO](https://app.diagrams.net/lightbox=1&nav=1&edit=_blank&layers=1&url=https://github.com/Fr4n9/SDL_SIMULATION/blob/main/GGC_Francesc_Adrian_SDL_SImulation.drawio)
 - You can **view the diagram** directly in your browser.
 - If you click the **pencil icon**, you can also **edit** it in draw.io.
 - Alternatively, you can scroll down to see **screenshots of the diagrams** already included in this README for a quick overview.
