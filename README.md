@@ -36,9 +36,9 @@ The simulation models how students queue to get snacks or coffee, using the tech
 
 The project has been created using **draw.io (diagrams.net)**.
 
-You can view and edit it directly using the following link:
+You can view in the html:
 
-👉 [Open GGC SDL Simulation Diagram (View & Edit)](https://is.gd/g0BDUl)
+👉 [Open GGC SDL Simulation Diagram (View & Edit)](https://github.com/Fr4n9/SDL_SIMULATION/blob/main/GGC_Francesc_Adrian_SDL_SImulation.drawio%20(1).html)
 
 - You can **view the diagram** directly in your browser.
 - If you click the **pencil icon**, you can also **edit** it in draw.io.
